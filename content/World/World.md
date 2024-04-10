@@ -2,22 +2,26 @@
 tags:
   - Main
 ---
-#### Pitch
-- History is young, and magic is new. 
-	- The spells you know and love exist, but you’ll have to create or find them yourself.
-- Ancient secrets await those brave enough to find them. 
-	- Who knows what happened before people thought to record things?
-- [[Creating spells|Magic comes from belief.]] 
-	- Whether that be from a sacred wishing star a thousand years past, or a humble pet rock, belief can form powerful magic with time.
-- Divinity is new. 
-	* The old gods are dead. New deities walk the material plane in their incarnations, working to change the world as they see fit.
-
-#### Info
-Orbits a binary star (Main sequence + neutron star) in a p-type orbit[^1]
-Has no moon, instead has rings
+# World Overview
+This world was mostly made under the Gygax 75 challenge, though it's expanded much more than that. This information applies to the entire world, not just a single continent. It's also mostly scientifically accurate.
+## Pitch
+AKA, Why should you use this setting?
+**History is young, and magic is new.** 
+- Magic was released into the world when the gods fell. Who knows what people might create with this new resource?
+**Ancient secrets await those brave enough to find them.** 
+- Though the world may seem new, looks can be deceiving. Ancient ruins lie just under the surface of inland seas, and impenetrable mountain ranges hold legendary artifacts and even more legendary dangers.
+**Magic comes from belief.**
+- Whether that be from a sacred wishing star a thousand years past, or a humble pet rock, belief can form powerful magic with time.
+**Divinity is new.** 
+- The old gods are dead. New deities walk the material plane in their incarnations, working to change the world as they see fit.
+## The Numbers
+Orbits a binary star (Main sequence + neutron star) in a p-type orbit
+Has no moon, instead has a ring - influences magic
 Year has 364 days, each continent has its own calendar - sometimes even different between regions
-#### Pantheon
-##### Types
+## [[Cosmology]]
+## Divinity
+The old gods are dead. What rises from their ashes?
+**Types**
 - Eidolons - Embodiments of concepts
 	-  Almost never incarnate in a way comprehensible to mortals
 	- Truenames not known to mortals (yet?)
@@ -27,8 +31,7 @@ Year has 364 days, each continent has its own calendar - sometimes even differen
 	- Power is based on belief
 		- Deity of a large city will have more power than one of a small lake
 - Spirits - Multiple types
-	- Angels
-	- Fae
+	- Angels/Fae
 - Aspects - Born of mortals under extreme circumstances
 	- A leader of an extremely influential movement might become an aspect
 	- Can also happen in moments of extreme change
@@ -58,13 +61,3 @@ Halo is a non-contagious magical illness that manifests when a mortal ascends to
 - Magic, Creativity, Creation
 #### Continents
 - [[Raea]]
-#### [[Cosmology]]
-#### Inspiration
-- Breath of the Wild/Tears of the Kingdom
-- Worlds Beyond Number
-- Exandria
-- SCP
-- Aurora
-- Sky: Children of the Light
-####
-[^1]: https://en.wikipedia.org/wiki/Binary_star
