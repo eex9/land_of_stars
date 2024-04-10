@@ -1,0 +1,24 @@
+---
+tags:
+  - Homebrew
+---
+# Fighter: The Mountain
+Students of the Mountain are rooted deep in the history of the world. You may have learned from an old sage, heard whispers while walking through a mountain fortress, or found a powerful crystal while caving. Wherever you draw power from, you learn how to stand unyielding in the face of hardship.
+### Of the Earth
+At 3rd level, you learn how to walk as one with the earth around you. You learn the *Mold Earth* cantrip. In addition, you gain proficiency in the Perception and Survival skills, and you have advantage on saving throws against spells that would move you against your will or that would lower your speed.
+### Crystalline Wrath
+At 3rd level, you learn how to transform your weapons and body into stone in order to enhance their potential. Your unarmed strikes deal damage equal to 1d6 + your strength modifier. In addition, as a bonus action on each of your turns, you can transform your weapon in order to refine its edge. When you do, each of your attacks that turn deal an extra 1d6 damage of the weapon's type. This damage counts as magical for the purposes of overcoming resistance and immunity. In addition, you may choose one of the following effects for each of your attacks:
+- **Deep Blow.** Your attack cuts deep and causes the target to bleed. The target takes damage equal to your proficiency bonus at the start of each of its turns. This effect can be ended with a successful Wisdom (Medicine) check on the creature.
+- **Creeping Crystal.** You cause the earth around the target to creep up its legs, inhibiting its movement. At the start of its next turn, the target must succeed a Dexterity or Strength saving throw or be immobilized. On a successful save, the target's speed is halved until the end of its turn.
+- **Shattering Stone.** You coat the creature with brittle stone. The creature has *vulnerability* to all damage types of the next attack that hits it for one minute.
+You can use this feature a number of times equal to your proficiency bonus per long rest.
+### Mountainous Positioning
+Starting at 7th level, you learn how to force creatures into disadvantageous positions. As an action on your turn, you can force a creature to make a Strength saving throw. The DC for this check is 8 + your proficiency bonus + your strength modifier. If they fail, their speed is reduced to 0 until the end of their next turn and you can move them up to their speed. You can use this feature a number of times equal to your strength modifier (minimum of 1) per long rest. In addition, the additional damage from your Crystalline Wrath feature increases to 1d8.
+### Unmovable
+Starting at 10th level, you learn secrets of the mountain. Once per long rest, when you use your Crystalline Wrath feature, you can choose to transform your body instead of just your weapon. If you do, the terrain within 15 feet of you turns into difficult terrain, which moves with you, and your armor class increases by an amount equal to your proficiency bonus. This difficult terrain does not affect you or your allies. In addition, movement does not provoke opportunity attacks this turn, you cannot be moved against your will, and your speed cannot be reduced. Finally, all damage done by you counts as magical for purposes of overcoming resistance and immunity. This effect lasts for one minute or until you end it (no action required).
+### Refined Crystal
+At 15th level, you learn to refine your blade's edge even further. The additional damage from your Crystalline Wrath feature increases to 1d12, and your attacks count as magical for the purposes of overcoming resistance and immunity even while your Crystalline Wrath is not active. In addition, you gain the following options for attacks:
+- **Shoving Blow.** Your attack is so mighty that it pushes the target away from you. The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you and be knocked Prone. If they succeed the saving throw, you still push them 5 feet away from you.
+- **Sinking Attack.** You turn the ground around the target to slush. The area within 5 feet of the target becomes difficult terrain until the end of your next turn. This difficult terrain does not affect you or your allies. This effect moves with the target.
+### Heart of the Mountain
+At 18th level, you embody the mountain and know perfectly where your targets are, even if you aren't on guard. When you use your Unmovable feature, your attacks automatically hit that turn. In addition, you cannot be surprised while you are conscious, and you gain blindsight out to a range of 30 feet.
