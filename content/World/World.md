@@ -6,24 +6,32 @@ tags:
 This world was mostly made under the Gygax 75 challenge, though it's expanded much more than that. This information applies to the entire world, not just a single continent. It's also mostly scientifically accurate.
 ## Pitch
 AKA, Why should you use this setting?
+
 **History is young, and magic is new.** 
 - Magic was released into the world when the gods fell. Who knows what people might create with this new resource?
+
 **Ancient secrets await those brave enough to find them.** 
 - Though the world may seem new, looks can be deceiving. Ancient ruins lie just under the surface of inland seas, and impenetrable mountain ranges hold legendary artifacts and even more legendary dangers.
+
 **Magic comes from belief.**
 - Whether that be from a sacred wishing star a thousand years past, or a humble pet rock, belief can form powerful magic with time.
+
 **Divinity is new.** 
 - The old gods are dead. New deities walk the material plane in their incarnations, working to change the world as they see fit.
 ## The Numbers
 Orbits a binary star (Main sequence + neutron star) in a p-type orbit
+
 Has no moon, instead has a ring - influences magic
+
 Year has 364 days, each continent has its own calendar - sometimes even different between regions
-## [[Cosmology]]
+## Cosmology
+[[World/Cosmology|Cosmology]] has its own file because it's important to me and definitely not because I wanted to write out every level of the 9 hells.
 ## Divinity
 The old gods are dead. What rises from their ashes?
+
 **Types**
 - Eidolons - Embodiments of concepts
-	-  Almost never incarnate in a way comprehensible to mortals
+	- Almost never incarnate in a way comprehensible to mortals
 	- Truenames not known to mortals (yet?)
 - Dominions - Embodiments of places
 	- Incarnate depending on place
@@ -47,6 +55,7 @@ The old gods are dead. What rises from their ashes?
 A deity's physical form is called an incarnation - most deities exist without them (except for Aspects)
 
 Halo is a non-contagious magical illness that manifests when a mortal ascends to godhood without being ready, sees an eidolon's true form, or any other number of deific-related things. Can last anywhere from an hour to several days or months.
+
 3 Stages
 - 1. Complaining of sweating and feeling like their body is too small. Longest stage.
 - 2. Skin becomes brighter and pupils disappear. Blood in the body changes to ichor in an incredibly painful process. Takes about half as long as first stage.
