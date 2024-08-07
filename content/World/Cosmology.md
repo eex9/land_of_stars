@@ -15,8 +15,8 @@ The Shadowfell and Faerie are echoes of the material plane, affected by the elem
 There are 8 aligned planes - corresponding to every alignment except True Neutral.
 - Lawful Good - Mount Celestia %%based on 5e - rename?%%
 	- A collection of high mountain peaks, strung together with bridges of wood and stone that connect massive stone temples. Clouds ring the bottom of the range, beyond which nobody returns from. Spirits sent here are battle-ready within days, as Mount Celestia is the plane to push back the endless incursions of the Abyss's demons.
-- Neutral Good - Haven %%Neon White%%
-	- An infinite sea of glass, broken by structures created by its inhabitants. Several distinct areas
+- Neutral Good - Horizon
+	- An infinite landscape, suited to fit each person who ends up there individually. The sky is shattered into a near-infinite number of shards, with every time of day and night at the same time. 
 - Chaotic Good - Sky %%Sky: Children of the Light%%
 	- A collection of islands floating in the sky, with environments varying from vast gravel beaches to lush green meadows. The sun never truly sets on this plane, only dips below the horizon line. Spirits sent here often manifest aspects of animals, and Sky is filled with play-like faction fighting. Anyone who dies on this plane comes back to life at the center of the plane or at the last place they slept upon the next nightfall.
 - Lawful Neutral - Ordo %%Mechanus 5e%%

@@ -1,0 +1,14 @@
+# Bard: College of Pyrotechnics
+You balance on the line between danger and spectacle, using mundane and magical fire alongside showy explosions to impress your audience, including allies and enemies alike.
+## Tricks of the Trade 
+Starting when you pick this subclass at third level, your careful hands grant you proficiency in both Alchemist’s and Tinkerer’s tools. In addition, you learn the Fire Bolt cantrip, or another cantrip of your choice from the bard spell list if you already know it.
+## Explosive Inspiration
+When you join the College of Pyrotechnics at third level, you learn how to infuse your words with explosive magic. Whenever you give a creature a bardic inspiration die, you may choose one of the following effects:
+- **Pyretic Staple.** A noticable, scintillating explosion detonates behind a creature of your choice, outlining them in light, and leaving a blazing mark above their head. The next time that creature is hit with an attack, that attack deals an additional 1d6 fire damage.
+- **Distracting Shot.** You fire a small firework at a creature within 30 feet of you. That creature has disadvantage on its next attack roll.
+- **Signal Flare.** Small explosives dot the landscape around a creature of your choice within 30 feet of you, temporarily redirecting its attention. The next attack against that creature has advantage.
+You can use this feature a number of times equal to your proficiency bonus per short rest.
+## Explosive Performance
+Starting at 6th level, you know how to use explosions to put on a show. As a bonus action, you can begin a fireworks show, which lasts for one minute or until you end it as a bonus action. While the fireworks display is ongoing, you and all allies within 30 feet of you have advantage on performance and persuasion checks, your attacks deal extra fire damage equal to a roll of your bardic inspiration die, the first attack against each ally while the fireworks show is ongoing has disadvantage. In addition, as an action, you can cause a firework to land at a point of your choice within 60 feet of you, forcing all creatures within 10 feet of that point to succeed on a dexterity saving throw or take fire damage equal to your proficiency bonus rolls of your bardic inspiration die. Once you use this feature, you can't use it again until you finish a long rest.
+## Pyromancer’s Ascension
+Starting at 14th level, your mastery of fire and performance rivals that of even the gods. You gain resistance to all fire damage, and ignore resistance to fire damage dealt by you. While your Explosive Performance feature is active, you instead gain immunity to fire damage and ignore resistance and immunity to fire damage, treating immunity as resistance. In addition, a number of times equal to your charisma modifier per long rest, when you cast a spell, you can expend a spell slot of the same level to cast that spell again with the same action, choosing new targets, areas, and effects.

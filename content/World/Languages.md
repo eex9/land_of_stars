@@ -14,7 +14,6 @@ If you speak one language in a category, it's easier to understand languages and
 - Common (Base)
 - Elvish
 - Dwarvish
-- 
 ## Primordial Languages
 - Primordial (Base)
 - Auran
